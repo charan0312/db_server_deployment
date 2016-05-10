@@ -1,0 +1,7 @@
+name 'db_server_deployment'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures db_server_deployment'
+long_description 'Installs/Configures db_server_deployment'
+version '0.1.0'
